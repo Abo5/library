@@ -80,7 +80,7 @@ We welcome contributions from the community. If you would like to contribute to 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE]() file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Abo5/library/blob/main/License) file for details.
 
 ## Contact
 
